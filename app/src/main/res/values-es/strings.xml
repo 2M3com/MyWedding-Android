@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+  <string name="app_name">MyWedding</string>
+  <string name="close">Cerrar</string>
+  <string name="retry">Reintentar</string>
+  <string name="cancel">Cancelar</string>
+</resources>
